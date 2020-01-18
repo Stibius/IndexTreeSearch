@@ -1,0 +1,15 @@
+2247913, Carita, Palencia, 1988-06-14, Physics, 3.24
+2248028, Jacalyn, Thornberry, 1988-04-03, Math, 2.84
+2330742, Marcos, Casey, 1990-09-14, CS, 3.86
+1248130, Devin, Upham, 1990-08-16, Physics, 3.17
+8248271, Iona, Brinsfield, 1990-11-13, Chemistry, 2.83
+6248385, Saran, Mcguire, 1991-02-05, Chemistry, 2.94
+2308485, Mark, Woods, 1991-12-22, Chemistry, 3.53
+2248452, Ranee, Schuch, 1991-10-06, Chemistry, 3.34
+5248531, Jesica, Talmage, 1992-06-03, Computer Science, 3.54
+2248642, Aaron, Rigo, 1992-06-23, Physics, 3.49
+4248775, Maxwell, Pals, 1992-08-13, Math, 3.63
+3313712, Timmy, Woods, 1991-03-10, Chemistry, 2.64
+2248810, Erma, Howser, 1993-04-17, Chemistry, 3.55
+9328811, Hannah, Casey, 1998-11-19, Physics, 2.61
+8265666, Dan, Woods, 1990-11-06, Chemistry, 2.55

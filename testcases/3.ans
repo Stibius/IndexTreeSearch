@@ -1,0 +1,11 @@
+2308485, Mark, Woods, 1991-12-22, Chemistry, 3.53
+Without index: 7 accesses
+With index: 5 accesses
+
+3313712, Timmy, Woods, 1991-03-10, Chemistry, 2.64
+Without index: 9 accesses
+With index: 5 accesses
+
+8265666, Dan, Woods, 1990-11-06, Chemistry, 2.55
+Without index: 14 accesses
+With index: 5 accesses
