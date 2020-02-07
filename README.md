@@ -4,7 +4,7 @@
 
 In this project, you will create a C++ program that will store information about a university/college/school roster in an array list and uses indexes to access records quickly.
 
-Each student record will be stored in the array list in order of student ID. This means that, when we need to retrieve a student record based on student ID, we can use binary search. But what happens when we need to look up a student by last name, or date of birth? We would have to sequential search through the array until we find a match. Unless we have indexes!
+Each student record will be stored in the array list in order of student ID. This means that, when we need to retrieve a student record based on student ID, we can use binary search. But what happens when we need to look up a student by last name, or date of birth? We would have to sequential search through the array until we find a match. Unless we have indexes.
 
 An index contains two data: the searched value (or key), and its position in the array. This way we can keep the index sorted by key and retrieve the position of the record in the array, without having to create duplicates of the records.
 
